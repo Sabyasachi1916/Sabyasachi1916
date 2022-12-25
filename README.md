@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabyasachi Polley
 - 👀 I’m interested in ...mobile app development (swift swiftUI flutter)
-- 🌱 I’m currently learning ...flutter
+- 🌱 I’m currently learning ...swiftUI & flutter
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...through email  at sabyasachipolley.imps@gmail.com or at +91 7076987539
 
