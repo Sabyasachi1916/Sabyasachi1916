@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning ...swiftUI & flutter
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...through email  at sabyasachipolley.imps@gmail.com or at +91 7076987539
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"/>
+
 
 
 
