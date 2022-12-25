@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D16AQGVA1doCq8vQw/profile-displaybackgroundimage-shrink_350_1400/0/1656182972117?e=1677715200&v=beta&t=3nM30jY1x-PLENcXPAhe4YUE0LNmYCTxtyPS-7mGC4w)]
+![MasterHead](https://media.licdn.com/dms/image/C4D16AQGVA1doCq8vQw/profile-displaybackgroundimage-shrink_350_1400/0/1656182972117?e=1677715200&v=beta&t=3nM30jY1x-PLENcXPAhe4YUE0LNmYCTxtyPS-7mGC4w)
 <h1 align="center">Hi 👋, I'm Sabyasachi Polley</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 <h3 align="center">Connect with me:</h3>
